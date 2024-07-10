@@ -92,8 +92,10 @@
               {{ author.last -}}
             </a>
           {%- else -%}
-            {{ author.first }}
-            {{ author.last }}
+            <span>
+              {{ author.first }}
+              {{ author.last }}
+            </span>
           {% endif %}
         {%- endif -%}
       {% endfor %}
