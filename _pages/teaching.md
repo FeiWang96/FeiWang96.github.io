@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description:
 nav: true
 nav_order: 3
@@ -12,13 +12,13 @@ toc:
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-### Tutorials
+#### Tutorials
 
 - [Enhancing LLM Capabilities Beyond Scaling Up]().
     * [EMNLP 2024](https://2024.emnlp.org/)
     * Co-Instructors: Wenpeng Yin, Muhao Chen, Rui Zhang, Ben Zhou, Dan Roth
 
-### Guest Lectures
+#### Guest Lectures
 
 - [Debiasing in Machine Learning]()
     * UC Davis ECS 271: Machine Learning and Discovery (Summer 2024)
@@ -28,7 +28,7 @@ Organize your courses by years, topics, or universities, however you like! -->
     * Host Instructor: Muhao Chen
 
 
-### Teaching Assistantship
+#### Teaching Assistantship
 
  - USC CSCI 699: Machine Learning in Healthcare and Biomedicine (Spring 2024)
     * Instructor: [Ruishan Liu](https://viterbi-web.usc.edu/~ruishanl/)
