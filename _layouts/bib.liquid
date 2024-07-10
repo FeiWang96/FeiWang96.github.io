@@ -43,10 +43,9 @@
     <!-- Title -->
     {% if entry.arxiv %}
       <div class="title"><a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank"><b>{{entry.title}}</b></a></div>
-    {% else %}
-      {% if entry.url %}
+    {% elsif entry.url %}
         <div class="title"><a href="{{ entry.url }}" target="_blank"><b>{{entry.title}}</b></a></div>
-      {% else %}
+    {% else %}
         <div class="title"><b>{{entry.title}}</b></div>
     {% endif %}
     <!-- Author -->
