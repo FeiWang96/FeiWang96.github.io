@@ -14,7 +14,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 #### Tutorials
 
-- [Enhancing LLM Capabilities Beyond Scaling Up]().
+- [Enhancing LLM Capabilities Beyond Scaling Up](https://www.wenpengyin.org/publications/beyond-llm-scaling-emnlp24).
     * [EMNLP 2024](https://2024.emnlp.org/)
     * Co-Instructors: Wenpeng Yin, Muhao Chen, Rui Zhang, Ben Zhou, Dan Roth
 
@@ -32,4 +32,4 @@ Organize your courses by years, topics, or universities, however you like! -->
 
  - USC CSCI 699: Machine Learning in Healthcare and Biomedicine (Spring 2024)
     * Instructor: [Ruishan Liu](https://viterbi-web.usc.edu/~ruishanl/)
-
+ - USC CSCI 572: Information Retrieval and Web Search Engines (Fall 2024)
